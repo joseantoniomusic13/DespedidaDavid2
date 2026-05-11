@@ -305,7 +305,7 @@ const RETOS = [
         color: "#f472b6"
     },
     {
-        texto: "Elige un 'objeto sagrado' y protégelo toda la noche como el anillo de Frodo ⚔️",
+        texto: "Coge el 'objeto sagrado' y protégelo toda la noche como el anillo de Frodo ⚔️",
         emoji: "🎯",
         color: "#fb923c"
     },
